@@ -1,5 +1,5 @@
 # About Me:
-🚀 I’m currently working on — C++ projects, Data Structures & Algorithms and real-world software projects<br>🤝 I’m looking to collaborate on — Open-source projects, hackathons and innovative tech solutions<br>🎯 I’m focused on — Strengthening problem-solving, software development and computer fundamentals<br>🌱 I’m currently learning — DSA in C++, Python, Web Development, AI & Data Analytics<br>⚡ I enjoy turning ideas into projects and learning something new by building
+ I’m currently working on — C++ projects, Data Structures & Algorithms and real-world software projects<br> I’m looking to collaborate on — Open-source projects, hackathons and innovative tech solutions<br> I’m focused on — Strengthening problem-solving, software development and computer fundamentals<br> I’m currently learning — DSA in C++, Python, Web Development, AI & Data Analytics<br> I enjoy turning ideas into projects and learning something new by building
 
 
 ## 🌐 Socials:
